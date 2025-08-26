@@ -4,8 +4,9 @@ Calculus of Element Generated Sets.
 
 # Calculus of Element General Sets (CEGS)
 
-This repository hosts the source and notes for the book *Calculus of Element Generated Sets (CEGS)*, 
-a symbolic framework unifying functional equations, logic, linear algebra, and constraint resolution.
+Calculus of Element Generated Sets (CEGS) — mathematical framework developed in the book.
+
+This repository serves as a discussion forum and reference point for the book.
 
 📄 Latest release: (https://zenodo.org/records/16904172)
 
