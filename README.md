@@ -17,3 +17,9 @@ This repository serves as a discussion forum and reference point for the book.
 ## How to Contribute
 Feel free to open a [Discussion](./discussions) or [Issue](./issues) with feedback, questions, or ideas.  
 Researchers interested in endorsement for the arXiv project are especially welcome.
+
+
+## Related Work
+**Constraint-Embedded Geometric Synthesis (derived from CEGS)**  
+A recent study expanding the Calculus of Element-Generated Sets toward practical field synthesis and nonlocal excitation control.  
+[Read the paper on Zenodo](https://zenodo.org/records/17478526))  
