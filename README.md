@@ -2,7 +2,7 @@
 ### Emergent Structure via a Wavefront R³ → ℂ Mapping
 
 **Author:** Norman De Leeuw  
-**DOI:** [10.5281/zenodo.16904172](https://zenodo.org/records/16904172)
+**DOI:** [10.5281/zenodo.17478526](https://zenodo.org/records/17478526)
 
 ---
 
