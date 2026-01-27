@@ -2,7 +2,7 @@
 Calculus of Element Generated Sets.
 
 
-# Calculus of Element General Sets (CEGS)
+# Calculus of Element Generated Sets (CEGS)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16904171.svg)](https://doi.org/10.5281/zenodo.16904171)
 Calculus of Element Generated Sets (CEGS) — mathematical framework developed in the book.
 
